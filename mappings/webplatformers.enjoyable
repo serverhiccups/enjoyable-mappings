@@ -1,0 +1,25 @@
+{
+  "name" : "Web Platformers",
+  "entries" : {
+    "273:5143:1~Button 2" : {
+      "type" : "key press",
+      "key" : 126
+    },
+    "273:5143:1~Axis 1~Low" : {
+      "type" : "key press",
+      "key" : 123
+    },
+    "273:5143:1~Button 1" : {
+      "type" : "key press",
+      "key" : 49
+    },
+    "273:5143:1~Axis 1~High" : {
+      "type" : "key press",
+      "key" : 124
+    },
+    "273:5143:1~Axis 2~Low" : {
+      "type" : "key press",
+      "key" : 125
+    }
+  }
+}

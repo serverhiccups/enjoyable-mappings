@@ -1,0 +1,75 @@
+{
+  "name" : "Minecraft",
+  "entries" : {
+    "273:5143:1~Button 1" : {
+      "type" : "key press",
+      "key" : 53
+    },
+    "273:5143:1~Button 7" : {
+      "type" : "key press",
+      "key" : 49
+    },
+    "273:5143:1~Axis 1~Low" : {
+      "type" : "key press",
+      "key" : 123
+    },
+    "273:5143:1~Button 2" : {
+      "type" : "key press",
+      "key" : 49
+    },
+    "273:5143:1~Axis 4~Low" : {
+      "type" : "mouse move",
+      "axis" : 3,
+      "speed" : 11
+    },
+    "273:5143:1~Button 8" : {
+      "type" : "mouse button",
+      "button" : 0
+    },
+    "273:5143:1~Button 3" : {
+      "type" : "key press",
+      "key" : 56
+    },
+    "273:5143:1~Axis 3~High" : {
+      "type" : "mouse move",
+      "axis" : 1,
+      "speed" : 11
+    },
+    "273:5143:1~Button 9" : {
+      "type" : "mouse button",
+      "button" : 1
+    },
+    "273:5143:1~Axis 3~Low" : {
+      "type" : "mouse move",
+      "axis" : 0,
+      "speed" : 11
+    },
+    "273:5143:1~Axis 4~High" : {
+      "type" : "mouse move",
+      "axis" : 2,
+      "speed" : 11
+    },
+    "273:5143:1~Axis 1~High" : {
+      "type" : "key press",
+      "key" : 124
+    },
+    "273:5143:1~Axis 2~High" : {
+      "type" : "key press",
+      "key" : 126
+    },
+    "273:5143:1~Button 4" : {
+      "type" : "key press",
+      "key" : 14
+    },
+    "273:5143:1~Button 5" : {
+      "speed" : 1,
+      "type" : "mouse scroll",
+      "smooth" : false,
+      "direction" : -2
+    },
+    "273:5143:1~Axis 2~Low" : {
+      "type" : "key press",
+      "key" : 125
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name" : “Keyboard and Mouse”,
+  "entries" : {
+    "273:5143:1~Button 7" : {
+      "type" : "key press",
+      "key" : 49
+    },
+    "273:5143:1~Axis 1~Low" : {
+      "type" : "mouse move",
+      "axis" : 0,
+      "speed" : 11
+    },
+    "273:5143:1~Button 2" : {
+      "type" : "mouse button",
+      "button" : 0
+    },
+    "273:5143:1~Axis 4~Low" : {
+      "speed" : 15,
+      "type" : "mouse scroll",
+      "smooth" : true,
+      "direction" : 1
+    },
+    "273:5143:1~Button 8" : {
+      "type" : "key press",
+      "key" : 56
+    },
+    "273:5143:1~Axis 3~High" : {
+      "speed" : 15,
+      "type" : "mouse scroll",
+      "smooth" : true,
+      "direction" : 2
+    },
+    "273:5143:1~Axis 4~High" : {
+      "speed" : 15,
+      "type" : "mouse scroll",
+      "smooth" : true,
+      "direction" : -1
+    },
+    "273:5143:1~Axis 3~Low" : {
+      "speed" : 15,
+      "type" : "mouse scroll",
+      "smooth" : true,
+      "direction" : -2
+    },
+    "273:5143:1~Button 4" : {
+      "type" : "mouse button",
+      "button" : 1
+    },
+    "273:5143:1~Axis 1~High" : {
+      "type" : "mouse move",
+      "axis" : 1,
+      "speed" : 11
+    },
+    "273:5143:1~Axis 2~High" : {
+      "type" : "mouse move",
+      "axis" : 2,
+      "speed" : 11
+    },
+    "273:5143:1~Button 9" : {
+      "type" : "key press",
+      "key" : 36
+    },
+    "273:5143:1~Axis 2~Low" : {
+      "type" : "mouse move",
+      "axis" : 3,
+      "speed" : 11
+    },
+    "273:5143:1~Button 6" : {
+      "type" : "key press",
+      "key" : 51
+    }
+  }
+}
